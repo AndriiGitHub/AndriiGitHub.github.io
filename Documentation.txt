@@ -1,0 +1,6 @@
+At the beginning there was no images everything was drawn with shapes. So all bonus balls were just shapes. That is why all variables are called representatively.
+Orange: crossbow
+Green: breaks all the bricks on its way
+Red: decrease paddle width
+Purple: additional live
+Yellow: increase paddle width
